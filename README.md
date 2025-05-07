@@ -14,4 +14,5 @@ Charts: Timeline (line chart), Event Breakdown (bar), Role-wise Victory (pie), a
 Slicers to filter data by date, event type, and more
 
 Why I Made This?
+
 I wanted to explore how political data can be visualized in Excel and practice dashboard design with meaningful KPIs and visuals. This project helped me improve my Excel skills in Power Query, Pivot Tables, and charting.
