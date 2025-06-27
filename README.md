@@ -25,6 +25,6 @@ To create an interactive Excel dashboard that showcases the key political milest
 
 # 📷 Dashboard Preview
 
-[Dashboard Screenshot](dashboard.png)
+[Dashboard Screenshot]("Dashboard.png")
 
 
