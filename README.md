@@ -25,6 +25,7 @@ To create an interactive Excel dashboard that showcases the key political milest
 
 # 📷 Dashboard Preview
 
-[Dashboard Screenshot]("Dashboard.png")
+[Dashboard Screenshot]("https://github.com/priya-marmat/Modi_Political_Dashboard/commit/eb90e4c9964c5afa320be6df7b1dd087cf5c8cb0#diff-13cecf186042c0062fee394cbadcaaf9fce8ac01b29d12aaec1b508006b9c131")
+
 
 
