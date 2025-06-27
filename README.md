@@ -23,5 +23,8 @@ To create an interactive Excel dashboard that showcases the key political milest
 - Structured presentation of top roles and active periods  
 - Clean and professional layout for storytelling with data
 
+# 📷 Dashboard Preview
+
+[Dashboard Screenshot](dashboard.png)
 
 
